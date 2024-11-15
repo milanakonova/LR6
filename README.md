@@ -81,5 +81,5 @@ $ git log --pretty=format:"%h %ad %an %s" --date=short
 ```
 
 ## 13. История операций
-Список истории операций:
+![Изменения](./photo/8.png)
 
